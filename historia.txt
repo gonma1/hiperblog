@@ -5,3 +5,4 @@ Tengo 41 años
 
 Soy estudiante de platzi 
 En la carrera de data science
+Esta carrera va a ser el inicio de algo espectacular a nivel laboral
